@@ -19,3 +19,4 @@ c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\refint\MiniLibrary.dll
 c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.pdb
 c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.genruntimeconfig.cache
 c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\ref\MiniLibrary.dll
+c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.sourcelink.json
