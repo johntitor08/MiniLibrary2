@@ -20,3 +20,25 @@ c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.pdb
 c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.genruntimeconfig.cache
 c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\ref\MiniLibrary.dll
 c:\Users\johnt\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.sourcelink.json
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\MiniLibrary.exe
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\MiniLibrary.deps.json
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\MiniLibrary.runtimeconfig.json
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\MiniLibrary.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\MiniLibrary.pdb
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\System.Data.SQLite.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\bin\Debug\net9.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.csproj.AssemblyReference.cache
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.AssemblyInfoInputs.cache
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.AssemblyInfo.cs
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.csproj.CoreCompileInputs.cache
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.sourcelink.json
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibr.35B842C8.Up2Date
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\refint\MiniLibrary.dll
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.pdb
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\MiniLibrary.genruntimeconfig.cache
+C:\Users\johnt\Desktop\Programming\Project\C#\.NET Framework\MiniLibrary\obj\Debug\net9.0-windows\ref\MiniLibrary.dll
